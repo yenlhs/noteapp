@@ -1,0 +1,6 @@
+{
+	"clients": [
+		{ "label": "Client1", "value": "Client1" },
+		{ "label": "Client2", "value": "Client2" }
+	]
+}
